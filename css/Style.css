@@ -1,0 +1,32 @@
+body {
+	font: 16px;
+	color: white;
+	background-color: black;
+}
+#header-nav {
+	background-color: gray;
+	border-radius: 0;
+	border: 0;
+}
+div.container {
+	margin-right: 0;
+	margin-left: 0;
+}
+div.navbar-header {
+	text-align: left;
+}
+.navbar-default
+.navbar-brand {
+	color: white;
+	font-size: 2em;
+}
+.navbar-default .navbar-nav>li>a {
+	color: white;
+}
+div#main-content.container {
+	width: 100%;
+}
+div.jumbotron {
+	height: 100em;
+	background-color: gray;
+}
